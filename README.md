@@ -1,3 +1,3 @@
 # gitWorkshopTraining
 
-modified by Ivan...haha
+modified by Ivan...
