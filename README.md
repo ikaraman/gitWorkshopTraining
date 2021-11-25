@@ -1,3 +1,3 @@
 # gitWorkshopTraining
 
-modified by Ivan...
+modified by Ivan...scary VIM warriors
